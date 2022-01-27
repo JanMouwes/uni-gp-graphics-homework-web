@@ -5,7 +5,7 @@
     "build": "webpack --mode=development --watch --no-cache"
   },
   "dependencies": {
-    "three": "^0.113.2"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "babel-loader": "^8.0.6",
